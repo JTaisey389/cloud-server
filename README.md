@@ -26,3 +26,11 @@ Major -> Minor -> Patch
 - Major: A significant change to the application such as creating a new file
 - Minor: A change within parts of the code if you update or modify a file
 - Patch: Correcting spelling errors and other small things
+
+1.0.0 - Push up first creation to files: 05/10/2021
+
+1.0.1 - Created branch to do work: 05/10/2021
+
+### Commands:
+
+- zip -rp server.zip *
