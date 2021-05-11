@@ -6,8 +6,8 @@
 
 ### Links & Resources
 
-[Link to GitHub actions]()
-[Pull requests]()
+[Link to GitHub actions](https://github.com/JTaisey389/cloud-server/actions/new)
+[Pull requests](https://github.com/JTaisey389/cloud-server/pulls)
 
 ### Process
 
@@ -35,3 +35,4 @@ Major -> Minor -> Patch
 
 - zip -rp server.zip *
 - cat index.js, server.js
+
