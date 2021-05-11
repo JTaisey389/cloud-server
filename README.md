@@ -35,4 +35,3 @@ Major -> Minor -> Patch
 
 - zip -rp server.zip *
 - cat index.js, server.js
-
