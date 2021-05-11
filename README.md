@@ -16,7 +16,7 @@
 
 ### GUI Deployed Server
 
-### CI/CD Deployment 
+### CI/CD Deployment
 
 ### Version Release
 
@@ -31,6 +31,8 @@ Major -> Minor -> Patch
 
 1.0.1 - Created branch to do work: 05/10/2021
 
-### Commands:
+### Commands
 
 - zip -rp server.zip *
+- cat index.js, server.js
+
