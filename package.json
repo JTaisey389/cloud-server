@@ -4,7 +4,7 @@
   "description": "cloud-server",
   "main": "index.js",
   "scripts": {
-    "test": "node start index.js"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
