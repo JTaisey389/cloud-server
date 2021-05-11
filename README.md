@@ -8,6 +8,7 @@
 
 [Link to GitHub actions](https://github.com/JTaisey389/cloud-server/actions/new)
 [Pull requests](https://github.com/JTaisey389/cloud-server/pulls)
+[AWS](http://awscloudserver-env.eba-4czrzmez.us-west-2.elasticbeanstalk.com/)
 
 ### Process
 
